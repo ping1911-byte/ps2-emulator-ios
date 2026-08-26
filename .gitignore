@@ -1,0 +1,30 @@
+# Xcode
+DerivedData/
+.DS_Store
+*.swiftpm
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+build/
+.build/
+*.o
+*.a
+*.so
+*.dylib
+
+# Swift
+.swift-version
+.swiftformat
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Binaries
+*.elf
+*.bin
